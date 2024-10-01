@@ -1,7 +1,7 @@
 import { ERROR_MESSAGES, INPUT_LABELS } from './app.config';
 import { findPredefinedValueId, findPropertyId } from './util';
 
-const BASE_URL = 'https://dotnet-v4itmarathon-prod.azurewebsites.net/api/';
+const BASE_URL = 'http://localhost:5074/api';
 const propertyDefinitionsUrl = BASE_URL + '/property-definitions';
 const proposalsUrl = BASE_URL + '/proposals';
 // const proposalsUrl = BASE_URL + '/proposal'; // to test error case
