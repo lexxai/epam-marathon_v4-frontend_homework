@@ -26,3 +26,18 @@ To run React project:
   - go to the file: react.js/src/http.js
   - change variable BASE_URL to base url of your backend
   - adjust variables propertyDefinitionsUrl and proposalsUrl to use your backend endpoints if needed
+
+
+
+# HOME WORK
+
+## Sign-in page
+![alt text](doc/images/image.png)
+![alt text](doc/images/image-1.png)
+### Links
+![alt text](doc/images/image-2.png)
+![alt text](doc/images/image-3.png)
+### Logged
+![alt text](doc/images/image-4.png)
+### Auth token
+![alt text](doc/images/image-5.png)
