@@ -41,3 +41,13 @@ To run React project:
 ![alt text](doc/images/image-4.png)
 ### Auth token
 ![alt text](doc/images/image-5.png)
+
+
+### Solution
+
+src\app\auth\pages\sign-in\
+- sign-in.component.scss
+- sign-in.component.html
+- sign-in.component.ts
+
+
