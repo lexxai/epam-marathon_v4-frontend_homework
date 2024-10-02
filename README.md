@@ -31,19 +31,24 @@ To run React project:
 
 # HOME WORK
 
-## Sign-in page
+## Design
+![alt text](doc/images/image-6.png)
+
+## Sign-in page (Live Page)
+Login page:
 ![alt text](doc/images/image.png)
+Filled fields on Login page:
 ![alt text](doc/images/image-1.png)
-### Links
+### Links from on Login page
 ![alt text](doc/images/image-2.png)
 ![alt text](doc/images/image-3.png)
-### Logged
+### Success Logged to Backend API
 ![alt text](doc/images/image-4.png)
-### Auth token
+### Result from Backend API - Auth token
 ![alt text](doc/images/image-5.png)
 
 
-### Solution
+### Code Solution
 
 src\app\auth\pages\sign-in\
 - sign-in.component.scss
