@@ -7,7 +7,7 @@
 /bazel-out
 
 # Node
-/node_modules
+node_modules
 npm-debug.log
 yarn-error.log
 
@@ -42,7 +42,10 @@ testem.log
 Thumbs.db
 
 # React project
-/src/app/comparison/react.js/node_modules
+src/app/comparison/react.js/node_modules
 
 # Vanilla.js project
-/src/app/comparison/vanilla.js/node_modules
+src/app/comparison/vanilla.js/node_modules
+
+**/.*
+
